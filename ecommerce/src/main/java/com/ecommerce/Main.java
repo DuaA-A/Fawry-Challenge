@@ -2,7 +2,7 @@ package com.ecommerce;
 
 public class Main {
     public static void main(String[] args) {
-        Customer customer = new Customer("Ali", 400);
+        Customer customer = new Customer("Ali", 600);
 
         Product cheese = new ShippableProduct("Cheese", 100, 10, 0.2);
         Product biscuits = new ShippableProduct("Biscuits", 150, 5, 0.7);
